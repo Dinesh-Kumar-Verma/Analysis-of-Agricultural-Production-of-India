@@ -22,13 +22,19 @@ Intermediate
 Microsoft Excel and Microsoft Power Bi
 # Conclusion 💡
 Some measure insights of this project:-
-From year 2004-2013 the top states in crops area, production and yield is given below-
+
+-From year 2004-2013 the top states in crops area, production and yield is given below-
+
 ![analysis](https://user-images.githubusercontent.com/72399132/140772319-d36d1ed0-da6a-45e4-a963-d10956806ba0.jpg)
-In the yield Punjab is the top state for the crops of Rice, Wheat and Coarse Cereals. It means that Punjab is producing more rice, wheat and coarse cereals in the less area than the other state.
-Cost of cultivation is higher than the cost of cultivation.
-Cost of culltivation(C2) is higher than the Cost of Cultivation(A2+FL).
-Production of Foodgrains followed uptrend from 2005-2014.
-Production of Oilseeds overall followed uptrend but from 2005-2010 it follwed a little bit uptrend downtrend in consecutive years.
+-In the yield Punjab is the top state for the crops of Rice, Wheat and Coarse Cereals. It means that Punjab is producing more rice, wheat and coarse cereals in the less area than the other state.
+
+-Cost of cultivation is higher than the cost of cultivation.
+
+-Cost of culltivation(C2) is higher than the Cost of Cultivation(A2+FL).
+
+-Production of Foodgrains followed uptrend from 2005-2014.
+
+-Production of Oilseeds overall followed uptrend but from 2005-2010 it follwed a little bit uptrend downtrend in consecutive years.
 
 
 # Linkedin Post
