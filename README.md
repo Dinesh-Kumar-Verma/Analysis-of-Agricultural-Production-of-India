@@ -44,6 +44,7 @@ Some measure insights of this project:-
 There are a lot of insights from this Projects Dashboard. According to the requirement we can easily get that information.
 
 # Linkedin Post
+https://www.linkedin.com/feed/update/urn:li:activity:6863802821079302145/
 
-# Youtube videos
-https://youtu.be/e4qDE6tAgYM
+# Youtube video link
+https://youtu.be/wisj7RteIpQ
