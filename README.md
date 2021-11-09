@@ -11,12 +11,13 @@ agriculture 3.csv
 agriculture 4.csv
 produce.csv
 Datasets are available in zip files.
-
+# Architecure/Workflow
+![Doc_2](https://user-images.githubusercontent.com/72399132/140901117-8f38a09e-80e6-45fa-bf10-4c921a8d81d7.jpg)
 # Technology 👩‍💻
 Business Intelligence
 # Domain
 Agriculture
-# Project difficulty level har
+# Project difficulty level 
 Intermediate
 # Tools 🛠
 Microsoft Excel and Microsoft Power Bi
@@ -30,12 +31,17 @@ Some measure insights of this project:-
 
 -Cost of cultivation is higher than the cost of cultivation.
 
--Cost of culltivation(C2) is higher than the Cost of Cultivation(A2+FL).
+-Cost of cultivation(C2) is higher than the Cost of Cultivation(A2+FL).
 
 -Production of Foodgrains followed uptrend from 2005-2014.
 
--Production of Oilseeds overall followed uptrend but from 2005-2010 it follwed a little bit uptrend downtrend in consecutive years.
+-Production of Oilseeds overall followed uptrend but from 2005-2010 it followed a little bit uptrend downtrend in consecutive years.
 
+-Andhra Pradesh's cultivation cost is higher than the other states.
+
+-Karnataka is the top yielder for the Sugarcane.
+
+There are a lot of insights from this Projects Dashboard. According to the requirement we can easily get that information.
 
 # Linkedin Post
 
