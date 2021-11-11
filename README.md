@@ -41,7 +41,7 @@ Some measure insights of this project:-
 
 -Karnataka is the top yielder for the Sugarcane.
 
-There are a lot of insights from this Projects Dashboard. According to the requirement we can easily get that information.
+For detailed inshight plese visit my Detailed Project Reoprt.
 
 # Linkedin Post
 https://www.linkedin.com/feed/update/urn:li:activity:6863802821079302145/
